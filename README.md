@@ -8,7 +8,7 @@ Part of Trip Point Software · by Trip Point Hardware
 
 ## Why
 
-Every gym app made me choose: a timer that dies when the screen locks, a ad-infested experience, features blocked behind a paywall, unnecessary bloat, or a spreadsheet that can't tell me what to lift today. This one is pretty simple: it logs a set, starts a rest timer that actually rings, and prescribes the next weight so I never guess.
+EVERY SINGLE GYM APP AT THE PLAY STORE IS BOUND BY A CONTRACT WITH SATAN TO SUCK ASS. Either they are full of ads, have necessary features behind a paywall, are bloated with meaningless options or simply have disgusting user interface. This one is just a glorified spread sheet because I'm lazy.
 
 ## Features
 
