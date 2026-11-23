@@ -4,7 +4,7 @@ An offline Android gym tracker. That's it.
 
 Part of Trip Point Software · by Trip Point Hardware
 
- · Android 8.0 or newer · Free · No internet access
+ Android 8.0 or newer · Free · No internet access
 
 ## Why
 
